@@ -11,6 +11,8 @@ public class DemoApplication {
 		System.out.println("After run");
 		System.out.println("After run");
 
+		System.out.println(new Date());
+
 			SpringApplication.run(DemoApplication.class, args);
 	}
 
